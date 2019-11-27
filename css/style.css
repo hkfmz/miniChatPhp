@@ -1,0 +1,119 @@
+* {
+    font-family: arial;
+}
+.wrapper {
+    width: 100%;
+    max-width: 650px;
+    margin: 0px auto;
+}
+.login-area,
+.chat-area {
+    border: 1px solid #716b6b;
+    background: rgb(207, 226, 243);
+    text-align: center;
+    padding: 60px;
+    margin: 50px;
+}
+.login-area input[type="text"] {
+    height: 30px;
+    background: transparent;
+    border: 1px solid;
+    padding: 5px;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+.submit {
+    /*
+    color:black;
+    background:transparent;
+    border:1px solid black;
+    */
+}
+.submit:hover {
+    background: white;
+}
+.form-group.error {
+    font-size: 12px;
+    color: red;
+    padding-top: 10px;
+    text-align: center;
+    display: none;
+}
+.userName {
+    text-align: left;
+    padding: 2px 0px 0px 5px;
+}
+.chat-area {} .chat-box > div {
+    padding: 5px;
+}
+.chat-box {
+    padding: 15px;
+    width: 100%;
+    margin: 0px auto;
+    line-height: 55px;
+    height: 100px;
+}
+.box {
+    min-height: 600px!important;
+    padding: 5px 0px 0px 0px!important;
+    background: rgb(207, 226, 243);
+    overflow: hidden;
+    margin: 55px 0px 55px 0px;
+}
+.box .row,
+.box-label{
+    padding-left:10px;
+}
+form.chat{
+    display: inherit;
+    width: inherit;
+}
+.show-chat {
+    height: 500px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    margin-bottom: 2px;
+    border-bottom: 1px solid #565353;
+    padding-bottom: 27px;
+}
+.send-chat {
+    padding: 15px;
+    margin-top: 10px;
+    min-height: 90px;
+    overflow: hidden;
+}
+.send-chat textarea,
+.send-chat input[type="submit"] {
+    height: 60px!important;
+    resize: none;
+}
+.send-chat input[type="submit"] {
+    width: 100%;
+}
+.time {
+    font-size: 11px;
+    font-style: italic;
+    padding: 0px 5px 0px 5px;
+}
+.message {
+    height: 60px;
+}
+.box-label {
+    line-height: 60px;
+    height: 60px;
+    font-weight: bold;
+    text-transform: capitalize;
+    font-size: 14px;
+    padding: 0px 0px 0px 10px;
+}
+footer {
+    border-top: 1px solid #b9b3b3;
+    text-align: center;
+    margin-top: 75px;
+    height: 60px;
+    position: fixed;
+    width: 100%;
+    line-height: 60px;
+}
+
+/*By Hegel Motokoua*/
