@@ -16,7 +16,7 @@ Sur youtube -: https://www.youtube.com/channel/UCpF8HCFJADce_5Iyfbjudbw
 </div>
 
 
-<img style="border: 2px solid whitesmoke; margin-top:90px" src="#" alt="simple-chat-server-using-php-mysql-: m.zeloumanekhaled@gmail.com"  />
+<!--m.zeloumanekhaled@gmail.com-->
 
 
 
